@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anc70_MVCWithRCL_Ind", "Anc70_MVCWithRCL_Ind\Anc70_MVCWithRCL_Ind.csproj", "{3486975D-C2D5-4A5F-B8B4-182A8D4C69F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorClassLibrary1", "RazorClassLibrary1\RazorClassLibrary1.csproj", "{EEABC13A-47EA-4523-98C9-F9367EED76DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3486975D-C2D5-4A5F-B8B4-182A8D4C69F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3486975D-C2D5-4A5F-B8B4-182A8D4C69F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3486975D-C2D5-4A5F-B8B4-182A8D4C69F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3486975D-C2D5-4A5F-B8B4-182A8D4C69F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEABC13A-47EA-4523-98C9-F9367EED76DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEABC13A-47EA-4523-98C9-F9367EED76DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEABC13A-47EA-4523-98C9-F9367EED76DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEABC13A-47EA-4523-98C9-F9367EED76DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79CD4079-0AB3-4ED4-A452-B8446448775B}
+	EndGlobalSection
+EndGlobal
